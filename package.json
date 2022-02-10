@@ -124,7 +124,7 @@
     "sinon": "^7.3.2"
   },
   "engines": {
-    "node": ">=6"
+    "node": ">=8"
   },
   "gitHead": "c0eb824143c2dd6f41b84e4ea241650bf4641819",
   "homepage": "https://github.com/HTHcoin/insight-api",
