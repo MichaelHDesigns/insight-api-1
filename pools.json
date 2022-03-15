@@ -21,7 +21,7 @@
       "Swampthing"
     ]
   },
-/*  {
+  {
     "poolName": "AntMiner",
     "url": "https://bitmaintech.com/",
     "searchStrings": [
@@ -294,5 +294,5 @@
     "searchStrings":[
       "/stratum/"
     ]
-  } */
+  }
 ]
