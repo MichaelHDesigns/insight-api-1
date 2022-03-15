@@ -1,27 +1,27 @@
 [
   {
-    "poolName": "50BTC",
-    "url": "https://50btc.com/",
+    "poolName": "ZPOOL",
+    "url": "https://zpool.ca/",
     "searchStrings": [
-      "50BTC.com",
-      "50btc.com"
+      "zpool",
+      "zpool.coa"
     ]
   },
   {
-    "poolName": "175btc",
-    "url": "http://www.175btc.com/",
+    "poolName": "ZergPool",
+    "url": "https://zergpool.com/",
     "searchStrings": [
-      "Mined By 175btc.com"
+      "zergpool.com"
     ]
   },
   {
-    "poolName": "ASICminer",
-    "url": "https://bitcointalk.org/index.php?topic=99497.0",
+    "poolName": "Swampthing",
+    "url": "https://mine.swampthing.net/",
     "searchStrings": [
-      "Mined By ASICMiner"
+      "Swampthing"
     ]
   },
-  {
+/*  {
     "poolName": "AntMiner",
     "url": "https://bitmaintech.com/",
     "searchStrings": [
@@ -294,5 +294,5 @@
     "searchStrings":[
       "/stratum/"
     ]
-  }
+  } */
 ]
